@@ -135,3 +135,11 @@ Upstream steps can vary a lot by lab/toolchain — this repo focuses on the COMS
 ---
 
 ## How to cite
+
+```bibtex
+@inproceedings{piyadasa2026morphoacoustic,
+  author    = {Piyadasa, Tharinda and Proctor, Michael and Szalay, Tunde and Glaunes, Joan and Gully, Amelia and Ballard, Kirrie and Kiff, Emily and Sanaei, Naeim and Foster, Sheryl and Waddington, David and Jin, Craig},
+  title     = {Morphoacoustic Modelling of Dynamic 3D Vocal Tracts Using MRI-Constrained Deformations and FEM Acoustics},
+  booktitle = {Proceedings of Interspeech 2026},
+  year      = {2026}
+}
